@@ -101,4 +101,3 @@ Help entrepreneurs discover profitable niches, create better products, rank high
 
 Educational and commercial reference use.
 
-بعدها سمي الملف `README.md` ورفعو مباشرة للـ GitHub repository ديالك.
